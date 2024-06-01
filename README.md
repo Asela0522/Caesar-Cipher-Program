@@ -17,7 +17,7 @@ To run this program on your local machine, follow these steps:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/Caesar-Cipher-Program.git
+    git clone https://github.com/your-username/Caesar-Cipher-Program.git](https://github.com/Asela0522/Caesar-Cipher-Program.git
     ```
 
 2. Navigate to the project directory:
